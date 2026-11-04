@@ -1,158 +1,249 @@
-<!-- ===================================================== -->
-<!--          HRITIK | ELITE CYBERSECURITY CORE            -->
-<!-- ===================================================== -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:032d22,70:00ff99,100:050505&height=220&section=header&text=HRITIK&fontSize=70&fontColor=00FF99&fontAlignY=35&desc=CYBERSECURITY%20OPERATOR%20%7C%20ETHICAL%20HACKER%20%7C%20THREAT%20HUNTER&descSize=16&descAlignY=62&animation=fadeIn" width="100%"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:064e3b,100:00ff9c&height=180&section=header&text=HRITIK&fontSize=65&fontColor=00FF9C&animation=fadeIn&fontAlignY=35&desc=CYBERSECURITY%20COMMAND%20CENTER&descSize=17&descAlignY=60"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=root%40hritik%3A~%23+whoami;Cybersecurity+Aspirant;Ethical+Hacking+Enthusiast;Linux+%7C+Networking+%7C+Python;Learning+to+Secure+the+Digital+World" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00FF9C?style=for-the-badge&logo=statuspage&logoColor=black&labelColor=020617"/>
+<img src="https://img.shields.io/badge/ROLE-CYBERSECURITY%20ASPIRANT-00FF9C?style=for-the-badge&labelColor=020617"/>
+<img src="https://img.shields.io/badge/MODE-ETHICAL%20HACKING-00FF9C?style=for-the-badge&labelColor=020617"/>
+
 </div>
 
-<!-- LIVE ANIMATED STATUS DOCK -->
-<p align="center">
-  <a href="https://linkedin.com/in/your-username" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/hritik" target="_blank"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://twitter.com/your-username" target="_blank"><img src="https://img.shields.io/badge/TWITTER/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-  <a href="https://yourportfolio.com" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-00FF99?style=for-the-badge&logo=firefox&logoColor=black"/></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/SECURE_MAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+---
 
-<!-- DYNAMIC TYPING CODE EFFECT -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=20&duration=3000&pause=1200&color=00FF99&center=true&vCenter=true&width=750&lines=sudo+systemctl+start+hritik_security.service;ETHICAL+HACKING+%7C+NETWORKING+%7C+DEFENSE+SYSTEMS;THINK+LIKE+AN+ATTACKER.+SECURE+LIKE+A+PRO.;LEARNING+TODAY.%3B+DEFENDING+TOMORROW." />
-</p>
+<h2><code>root@hritik:~# neofetch</code></h2>
 
-<!-- REALTIME VISITOR COUNTER -->
+<table width="100%">
+<tr>
+<td width="40%" align="center" valign="middle">
+
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="230" alt="Cybersecurity animation"/>
+
+</td>
+<td width="60%" valign="middle">
+
+```yaml
+IDENTITY:
+  name: Hritik
+  role: Cybersecurity Aspirant
+  location: India
+  status: Learning
+
+MISSION:
+  - Learn Ethical Hacking
+  - Understand Network Security
+  - Explore Linux
+  - Build Security Projects
+
+PHILOSOPHY:
+  Learn. Practice. Secure.
+```
+
+</td>
+</tr>
+</table>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=SECURE+HOST+HITS&color=00ff99&style=for-the-badge"/>
+<strong>● SYSTEM ONLINE</strong> · Learning cybersecurity one layer at a time.
 </p>
 
 ---
 
-<!-- SECTION 01: IDENTITY & OVERVIEW -->
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked%20with%20Key.png" width="35"/>
-  <code>[ 01. OPERATOR_PROFILE ]</code>
-</h2>
+<h2><code>$ tail -n 8 /var/log/security.log</code></h2>
 
-<table align="center" width="100%" style="border: none;">
-  <tr>
-    <td align="center" width="42%">
-      <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300px" style="border-radius: 15px; box-shadow: 0px 0px 20px #00ff99;" />
-    </td>
-    <td width="58%" valign="middle">
-      <h3>👋 Hello, I am Hritik</h3>
-      <p>🛡️ <b>Cybersecurity Aspirant & Defensive System Enthusiast</b></p>
-      <p>Passionate about unravelling system vulnerabilities, dissecting network packets, conducting deep OSINT investigations, and mastering both offensive & defensive paradigms of cybersecurity.</p>
-      <p>
-        <img src="https://img.shields.io/badge/DOMAIN-CYBER_DEFENSE-00FF99?style=flat-square&logo=shield"/>
-        <img src="https://img.shields.io/badge/FOCUS-ETHICAL_HACKING-008F68?style=flat-square&logo=kalilinux"/><br/>
-        <img src="https://img.shields.io/badge/CORE-NETWORKING-0077B5?style=flat-square&logo=cisco"/>
-        <img src="https://img.shields.io/badge/INTEL-OSINT_ANALYSIS-9966CC?style=flat-square"/>
-      </p>
-    </td>
-  </tr>
+```bash
+[ OK ] Identity initialized: Hritik
+[ OK ] Cybersecurity journey started
+[ OK ] Linux environment activated
+[ OK ] Networking fundamentals loading
+[ OK ] Python security learning initialized
+[ OK ] Ethical hacking concepts exploring
+[ OK ] Security research mode enabled
+[ RUN ] Building knowledge. Strengthening defenses.
+```
+
+<h2><code>$ which --all toolchain</code></h2>
+
+### Technical Arsenal
+
+<div align="center">
+
+| Technology | Focus |
+|:---:|:---|
+| <img src="https://skillicons.dev/icons?i=linux" width="25"/> Linux | System Fundamentals |
+| <img src="https://skillicons.dev/icons?i=python" width="25"/> Python | Programming |
+| <img src="https://skillicons.dev/icons?i=bash" width="25"/> Bash | Command Line |
+| <img src="https://skillicons.dev/icons?i=git" width="25"/> Git | Version Control |
+| <img src="https://skillicons.dev/icons?i=github" width="25"/> GitHub | Collaboration |
+| <img src="https://skillicons.dev/icons?i=vscode" width="25"/> VS Code | Development |
+
+</div>
+
+<p align="center">
+<img src="https://img.shields.io/badge/NETWORKING-Learning-00FF9C?style=flat-square&labelColor=020617"/>
+<img src="https://img.shields.io/badge/CYBERSECURITY-Learning-00FF9C?style=flat-square&labelColor=020617"/>
+<img src="https://img.shields.io/badge/LINUX-Practicing-00FF9C?style=flat-square&labelColor=020617"/>
+</p>
+
+---
+
+<h2><code>$ ./security_interests.sh</code></h2>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🔐 Offensive Security
+- Ethical Hacking
+- Penetration Testing Concepts
+- Vulnerability Assessment
+- CTF Challenges
+
+</td>
+<td width="50%" valign="top">
+
+### 🛡️ Defensive Security
+- Network Security
+- Linux Security
+- Security Fundamentals
+- Threat Awareness
+
+</td>
+</tr>
 </table>
 
 ---
 
-<!-- SECTION 02: ARSENAL & SKILL STACK -->
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="35"/>
-  <code>[ 02. ARSENAL & TOOLCHAIN ]</code>
-</h2>
+<h2><code>$ git launchpad --all</code></h2>
 
-<p align="center"><b>Programming & Scripting Languages</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,bash,powershell,mysql,linux,kali,windows,git,github,vscode,docker&theme=dark" />
-</p>
+### Project Repository
 
-<p align="center"><b>Cybersecurity Frameworks & Utility Tooling</b></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/NMAP-00FF99?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/WIRESHARK-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/BURP_SUITE-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/METASPLOIT-2596CD?style=for-the-badge&logo=metasploit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=00FF99"/>
-</p>
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
----
+<h3>01. Linux Labs</h3>
 
-<!-- SECTION 03: LIVE METRICS & GITHUB ANALYTICS -->
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="35"/>
-  <code>[ 03. SYSTEM_ANALYTICS & METRICS ]</code>
-</h2>
+Practice Linux commands and system fundamentals.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=050505&title_color=00FF99&icon_color=00FF99&text_color=FFFFFF" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=chartreuse-dark&hide_border=true&background=050505&ring=00FF99&fire=00FF99&currStreakLabel=00FF99" width="48%" />
-</p>
+<sub>LINUX · BASH</sub>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=050505&title_color=00FF99&text_color=FFFFFF" width="55%" />
-</p>
+<a href="https://github.com/YOUR_USERNAME/linux-labs">Explore Repository →</a>
 
----
+</td>
+<td width="50%" valign="top">
 
-<!-- SECTION 04: ANIMATED SNAKE CONTRIBUTION GRAPH -->
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="35"/>
-  <code>[ 04. CONTRIBUTION ACTIVITY FEED ]</code>
-</h2>
+<h3>02. Python Security</h3>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=050505&color=00FF99&line=00FF99&point=FFFFFF&area=true&hide_border=true" width="100%"/>
-</p>
+Python learning and beginner security projects.
 
----
+<sub>PYTHON · AUTOMATION</sub>
 
-<!-- SECTION 05: TROPHIES & GAME STATS -->
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="35"/>
-  <code>[ 05. BADGES & ACHIEVEMENTS ]</code>
-</h2>
+<a href="https://github.com/YOUR_USERNAME/python-security">Explore Repository →</a>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=chartreuse-dark&no-bg=true&margin-w=5&margin-h=5" width="90%"/>
-</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_GITHUB_USERNAME&theme=chartreuse-dark&hide_border=true&bg_color=050505&title_color=00FF99&text_color=FFFFFF" width="60%" />
-</p>
+<h3>03. Networking Notes</h3>
+
+Networking concepts and learning documentation.
+
+<sub>NETWORKING · TCP/IP</sub>
+
+<a href="https://github.com/YOUR_USERNAME/networking-notes">Explore Repository →</a>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>04. Cybersecurity Notes</h3>
+
+Cybersecurity fundamentals and lab notes.
+
+<sub>SECURITY · RESEARCH</sub>
+
+<a href="https://github.com/YOUR_USERNAME/cybersecurity-notes">Explore Repository →</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
-<!-- SECTION 06: CYBER ROADMAP -->
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20Places/Compass.png" width="35"/>
-  <code>[ 06. CYBERSECURITY ROADMAP ]</code>
-</h2>
+<h2><code>$ git status --short</code></h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/01-FUNDAMENTALS-00FF99?style=for-the-badge"/> ➔ 
-  <img src="https://img.shields.io/badge/02-NETWORKING-00FF99?style=for-the-badge"/> ➔ 
-  <img src="https://img.shields.io/badge/03-LINUX_SECURITY-00FF99?style=for-the-badge"/> ➔ 
-  <img src="https://img.shields.io/badge/04-PYTHON_SECURITY-00AA88?style=for-the-badge"/>
-  <br/><br/>
-  <img src="https://img.shields.io/badge/05-ETHICAL_HACKING-0088CC?style=for-the-badge"/> ➔ 
-  <img src="https://img.shields.io/badge/06-WEB_SECURITY-0088CC?style=for-the-badge"/> ➔ 
-  <img src="https://img.shields.io/badge/07-SOC_&_SIEM-9955CC?style=for-the-badge"/> ➔ 
-  <img src="https://img.shields.io/badge/08-INCIDENT_RESPONSE-FF6633?style=for-the-badge"/>
+<strong>WORKSPACE STATUS: LEARNING · BUILDING · IMPROVING</strong>
 </p>
 
----
+<h2><code>$ github --stats</code></h2>
 
-<!-- DAILY MOTIVATION QUOTE -->
-<p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?theme=dark&bg_color=050505&color=00FF99&author_color=FFFFFF" alt="Daily Quote" />
-</p>
-
----
-
-<!-- FOOTER ANIMATED BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF99,50:032d22,100:000000&height=130&section=footer"/>
-  <br/>
-  <img src="https://img.shields.io/badge/STATUS-OPERATIONAL_%26_SECURE-00FF99?style=for-the-badge&logo=linux&logoColor=black"/>
-  <br/><br/>
-  <code>root@hritik:~$ exit</code>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=020617&title_color=00FF9C&icon_color=00FF9C&text_color=FFFFFF&include_all_commits=true"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&background=020617&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C&sideLabels=FFFFFF&dates=AAAAAA"/>
+
+<br/><br/>
+
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=020617&title_color=00FF9C&text_color=FFFFFF"/>
+
 </div>
+
+---
+
+<h2><code>$ git log --graph --all</code></h2>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=020617&color=00FF9C&line=00FF9C&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=matrix&no-frame=true&no-bg=true&margin-w=5" width="100%"/>
+
+</div>
+
+---
+
+<h2><code>$ ssh hritik@github</code></h2>
+
+<div align="center">
+
+### Let's Connect!
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-Profile-00FF9C?style=for-the-badge&logo=github&logoColor=black&labelColor=020617"/>
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-00FF9C?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=020617"/>
+</a>
+
+<br/><br/>
+
+```text
+┌─────────────────────────────────────────┐
+│                                         │
+│  THINK LIKE AN ATTACKER                 │
+│  DEFEND LIKE A PROFESSIONAL             │
+│  ALWAYS LEARN ETHICALLY                 │
+│                                         │
+└─────────────────────────────────────────┘
+```
+
+**Hritik | Cybersecurity Aspirant**
+
+`</ Stay Curious. Stay Ethical. Stay Secure />`
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF9C,50:064e3b,100:020617&height=100&section=footer"/>
+
